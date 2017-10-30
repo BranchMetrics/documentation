@@ -137,35 +137,6 @@ compile ('io.branch.sdk.android:library:2.+') {
 {% endif %}
 <!--- /Android -->
 
-<!--- Cordova -->
-{% if page.cordova %}
-
-### Register a URI scheme
-
-{% ingredient universal-links-requirement %}{% endingredient %}
-
-Branch opens your app by using its URI scheme (`yourapp://`), which should be unique to your app.
-
-1. On the [Link Settings](https://dashboard.branch.io/#/settings/link){:target="_blank"} page of the Branch dashboard.
-1. For iOS projects, ensure that **I have an iOS App** is checked and **iOS URI Scheme** is filled.
-1. For Android projects, ensure that **I have an Android App** is checked and **Android URI Scheme** is filled.
-
-### Command line module install
-
-You can install the Branch SDK by using one of several different command line tools. Here are the install parameters to use:
-
-| Parameter | Usage
-| --- | ---
-| `BRANCH_KEY` | Your Branch live API key, retrieved from the [Settings page](https://dashboard.branch.io/#/settings){:target="_blank"} of the Branch dashboard.
-| `URI_SCHEME` | The URI scheme for your app (**not** including `://`) from the step above.
-
-{% highlight sh %}
-cordova plugin add branch-cordova-sdk --variable BRANCH_KEY=key_live_xxxxxxxxxxxxxxx --variable URI_SCHEME=yourapp
-{% endhighlight %}
-
-{% endif %}
-<!--- /Cordova -->
-
 <!--- Unity -->
 {% if page.unity %}
 
