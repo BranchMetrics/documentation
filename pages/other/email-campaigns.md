@@ -11,6 +11,7 @@ sections:
 - overview
 - guide
 alias: [ /features/email-campaigns/, /features/email-campaigns/overview/, /features/email-campaigns/guide/, /features/email-campaigns/advanced/ ]
+redirect: https://docs.branch.io/pages/emails/get-started/
 ---
 
 {% if page.overview %}

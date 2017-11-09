@@ -8,6 +8,7 @@ keywords: Contextual Deep Linking, Deep links, Deeplinks, Deep Linking, Deeplink
 hide_platform_selector: true
 hide_section_selector: true
 alias: [ /features/ ]
+redirect: https://docs.branch.io/
 ---
 Branch is your linking infrastructure that deep links from every single marketing channel. Want to run deep linked ads, or give your e-mail users the best experience? Branch's linking platform takes care of it.
 

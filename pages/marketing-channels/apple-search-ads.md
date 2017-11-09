@@ -8,6 +8,7 @@ sections:
 - overview
 - guide
 alias: [ /features/apple-search-ads/, /features/apple-search-ads/overview/, /features/apple-search-ads/guide/ ] 
+redirect: https://docs.branch.io/pages/deep-linked-ads/apple
 ---
 
 {% if page.overview %}

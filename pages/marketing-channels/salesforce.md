@@ -17,6 +17,7 @@ contents:
     - setup
 alias: [ /third-party-integrations/salesforce/, /third-party-integrations/salesforce/overview/, /third-party-integrations/salesforce/setup/, /third-party-integrations/salesforce/usage/, /third-party-integrations/salesforce/support/ ] 
 machine_name: e_et
+redirect: https://docs.branch.io/pages/emails/salesforce/
 ---
 
 {% if page.overview %}

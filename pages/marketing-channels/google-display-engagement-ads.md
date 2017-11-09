@@ -16,6 +16,7 @@ contents:
   - ios
   - android
 alias: [ /features/google-display-engagement-ads/, /features/google-display-engagement-ads/overview/, /features/google-display-engagement-ads/guide/ios/, /features/google-display-engagement-ads/guide/android/, /features/google-display-engagement-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

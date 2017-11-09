@@ -10,6 +10,7 @@ hide_platform_selector: true
 hide_section_selector: true
 sections:
 - guide
+redirect: https://docs.branch.io/pages/web/hosted-data/
 ---
 
 Make it easy for your marketers to create links! If you host deep link data in your website source code, Branch can automatically convert a simple web URL into a corresponding Branch link that deep links to relevant content in your mobile app.

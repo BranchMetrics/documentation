@@ -12,6 +12,7 @@ sections:
 contents:
   number:
   - guide
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

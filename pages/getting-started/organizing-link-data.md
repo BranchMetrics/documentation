@@ -11,6 +11,7 @@ hide_section_selector: true
 sections:
 - guide
 contents: list
+redirect: https://docs.branch.io/pages/links/integrate/#configure-deep-links
 ---
 
 Now that your app is configured, it's time to dive into your data with the [Branch Dashboard](https://dashboard.branch.io){:target="_blank"}! The dashboard is a great tool for measuring growth and engagement, and offers many powerful configuration options.

@@ -16,6 +16,7 @@ contents:
   - ios
   - android
 alias: [ /features/google-display-install-ads/, /features/google-display-install-ads/overview/, /features/google-display-install-ads/guide/ios/, /features/google-display-install-ads/guide/android/, /features/google-display-install-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

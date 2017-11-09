@@ -19,6 +19,7 @@ sections:
 - overview
 - guide
 - advanced
+redirect: https://docs.branch.io/pages/deep-linking/routing/#overview
 ---
 
 {% if page.overview %}

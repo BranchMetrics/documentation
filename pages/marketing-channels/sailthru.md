@@ -18,6 +18,7 @@ contents:
     - usage
 alias: [ /third-party-integrations/sailthru/overview/, /third-party-integrations/sailthru/overview/, /third-party-integrations/sailthru/setup/, /third-party-integrations/sailthru/usage/, /third-party-integrations/sailthru/support/ ] 
 machine_name: e_st
+redirect: https://docs.branch.io/pages/emails/sailthru/
 ---
 
 {% if page.overview %}

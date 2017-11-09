@@ -12,6 +12,7 @@ sections:
 - advanced
 exclude_from_google_search: true
 alias: [ /features/search/, /features/search/overview/, /features/search/guide/, /features/search/advanced/ ]
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

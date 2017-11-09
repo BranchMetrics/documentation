@@ -22,6 +22,7 @@ sections:
 - guide
 - advanced
 - support
+redirect: https://docs.branch.io/pages/deep-linking/universal-links/
 ---
 
 {% if page.overview %}

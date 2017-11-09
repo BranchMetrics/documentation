@@ -10,6 +10,7 @@ hide_section_selector: true
 sections:
 - guide
 contents: list
+redirect: https://docs.branch.io/pages/links/integrate/
 ---
 
 Every Branch link that you create is completely customizable from a functionality perspective. Here are the key variables for customization.

@@ -11,6 +11,7 @@ sections:
 - guide
 contents: list
 alias: [ /getting-started/supported-standards/ ]
+redirect: https://docs.branch.io/pages/links/integrate/#expected-redirect-behavior
 ---
 
 A Branch Link is the only link you need- we handle all the changing standards for you so that your app is always accessible on any platform.

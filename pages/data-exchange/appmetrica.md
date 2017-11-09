@@ -13,6 +13,7 @@ sections:
 - guide
 - advanced
 alias: [ /third-party-integrations/appmetrica/, /third-party-integrations/appmetrica/overview/, /third-party-integrations/appmetrica/guide/, /third-party-integrations/appmetrica/advanced/ ] 
+redirect: https://docs.branch.io/pages/integrations/appmetrica/
 ---
 
 {% if page.overview %}

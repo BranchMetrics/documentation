@@ -21,6 +21,7 @@ sections:
 - guide
 exclude_from_google_search: true
 alias: [ /getting-started/creating-links-in-apps/, /getting-started/creating-links-in-apps/overview/, /getting-started/creating-links-in-apps/guide/ios/, /getting-started/creating-links-in-apps/guide/android/, /getting-started/creating-links-in-apps/guide/cordova/, /getting-started/creating-links-in-apps/guide/xamarin/, /getting-started/creating-links-in-apps/guide/unity/, /getting-started/creating-links-in-apps/guide/adobe/, /getting-started/creating-links-in-apps/guide/titanium/, /getting-started/creating-links-in-apps/guide/react/, /getting-started/creating-links-in-apps/guide/mparticle_ios/, /getting-started/creating-links-in-apps/guide/mparticle_android/ ]
+redirect: https://docs.branch.io/pages/apps/ios/#create-deep-link
 ---
 
 {% if page.overview %}

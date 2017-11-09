@@ -16,6 +16,7 @@ contents:
   number:
     - setup
 machine_name: e_md
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

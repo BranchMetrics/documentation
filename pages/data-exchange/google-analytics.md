@@ -14,6 +14,7 @@ sections:
 - advanced
 - support
 alias: [ /third-party-integrations/google-analytics/, /third-party-integrations/google-analytics/overview/, /third-party-integrations/google-analytics/guide/, /third-party-integrations/google-analytics/advanced/, /third-party-integrations/google-analytics/support/ ] 
+redirect: https://docs.branch.io/pages/integrations/google-analytics/
 ---
 
 {% if page.overview %}

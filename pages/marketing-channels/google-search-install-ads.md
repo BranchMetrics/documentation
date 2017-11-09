@@ -16,6 +16,7 @@ contents:
   - ios
   - android
 alias: [ /features/google-search-install-ads/, /features/google-search-install-ads/overview/, /features/google-search-install-ads/guide/ios/, /features/google-search-install-ads/guide/android/, /features/google-search-install-ads/support/ios/, /features/google-search-install-ads/support/android/  ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

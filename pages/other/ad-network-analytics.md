@@ -11,6 +11,7 @@ sections:
 - overview
 - guide
 alias: [ /third-party-integrations/ad-network-analytics/, /third-party-integrations/ad-network-analytics/guide/, /third-party-integrations/ad-network-analytics/overview/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

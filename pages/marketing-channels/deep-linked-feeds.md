@@ -11,6 +11,7 @@ sections:
 - overview
 - guide
 alias: [ /features/deep-linked-feeds/, /features/deep-linked-feeds/overview/, /features/deep-linked-feeds/guide/, /features/deep-linked-feeds/advanced/, /features/deep-linked-feeds/support/ ] 
+redirect: https://docs.branch.io/pages/deep-linked-ads/dynamic-product-feeds/#overview
 ---
 
 {% if page.overview %}

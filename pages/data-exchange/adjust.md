@@ -13,6 +13,7 @@ sections:
 - guide
 - advanced
 alias: [ /third-party-integrations/adjust/, /third-party-integrations/adjust/overview/, /third-party-integrations/adjust/guide/, /third-party-integrations/adjust/advanced/ ] 
+redirect: https://docs.branch.io/pages/integrations/adjust/
 ---
 
 {% if page.overview %}

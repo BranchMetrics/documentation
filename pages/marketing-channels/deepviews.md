@@ -19,6 +19,7 @@ sections:
 - guide
 - advanced
 alias: [ /features/deepviews/, /features/deepviews/overview/, /features/deepviews/guide/ios/, /features/deepviews/guide/android/, /features/deepviews/guide/cordova/, /features/deepviews/guide/xamarin/, /features/deepviews/guide/unity/, /features/deepviews/guide/adobe/, /features/deepviews/guide/titanium/, /features/deepviews/guide/react/, /features/deepviews/advanced/ios/, /features/deepviews/advanced/android/, /features/deepviews/advanced/cordova/, /features/deepviews/advanced/xamarin/, /features/deepviews/advanced/unity/, /features/deepviews/advanced/adobe/, /features/deepviews/advanced/titanium/, /features/deepviews/advanced/react/ ]
+redirect: https://docs.branch.io/pages/web/deep-views/
 ---
 
 

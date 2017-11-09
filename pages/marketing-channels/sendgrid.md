@@ -17,6 +17,7 @@ contents:
     - setup
 alias: [ /third-party-integrations/sendgrid/, /third-party-integrations/sendgrid/overview/, /third-party-integrations/sendgrid/setup/, /third-party-integrations/sendgrid/usage/, /third-party-integrations/sendgrid/support/ ] 
 machine_name: e_sg
+redirect: https://docs.branch.io/pages/emails/sendgrid/
 ---
 
 {% if page.overview %}

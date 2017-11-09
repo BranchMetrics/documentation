@@ -8,6 +8,7 @@ hide_platform_selector: true
 sections:
 - overview
 alias: [ /features/google-ads-overview/ ]
+redirect: https://docs.branch.io/pages/deep-linked-ads/google-ads-overview/
 ---
 
 {% if page.overview %}

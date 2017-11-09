@@ -15,6 +15,7 @@ sections:
 contents:
   number:
     - setup
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

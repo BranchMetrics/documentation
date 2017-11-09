@@ -8,6 +8,7 @@ hide_platform_selector: true
 sections:
 - overview
 alias: [ /features/facebook-ads-overview/, /features/facebook-ads-overview/overview/ ]
+redirect: https://docs.branch.io/pages/deep-linked-ads/facebook-ads-overview/
 ---
 
 {% if page.overview %}

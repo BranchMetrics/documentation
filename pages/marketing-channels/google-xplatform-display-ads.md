@@ -13,6 +13,7 @@ contents:
   number:
   - guide
 alias: [ /features/google-xplatform-display-ads/, /features/google-xplatform-display-ads/overview/, /features/google-xplatform-display-ads/guide/, /features/google-xplatform-display-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

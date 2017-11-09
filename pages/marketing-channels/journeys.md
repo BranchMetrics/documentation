@@ -19,6 +19,7 @@ contents:
   hide:
     - examples
 alias: [ /features/journeys/, /features/journeys/overview/, /features/journeys/guide/, /features/journeys/advanced/, /features/journeys/examples/ ]
+redirect: https://docs.branch.io/pages/web/journeys/
 ---
 
 {% if page.overview %}

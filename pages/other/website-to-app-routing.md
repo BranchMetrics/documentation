@@ -12,6 +12,7 @@ sections:
 - advanced
 - support
 alias: [ /features/website-to-app-routing/, /features/website-to-app-routing/overview/, /features/website-to-app-routing/guide/, /features/website-to-app-routing/advanced/, /features/website-to-app-routing/support/ ]
+redirect: https://docs.branch.io/pages/web/journeys/#web-to-app-routing-without-journeys
 ---
 
 {% if page.overview %}

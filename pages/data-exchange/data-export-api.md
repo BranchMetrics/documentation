@@ -11,6 +11,7 @@ hide_section_selector: true
 sections:
 - guide
 alias: [ /methods-endpoints/data-export-api/guide/ ]
+redirect: https://docs.branch.io/pages/exports/api/
 ---
 
 ## Data Export API

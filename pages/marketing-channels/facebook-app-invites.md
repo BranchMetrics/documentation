@@ -15,6 +15,7 @@ sections:
 - advanced
 - support
 alias: [ /features/facebook-app-invites/, /features/facebook-app-invites/overview/, /features/facebook-app-invites/guide/ios/, /features/facebook-app-invites/guide/android/, /features/facebook-app-invites/advanced/ios/, /features/facebook-app-invites/advanced/android/, /features/facebook-app-invites/support/ios/, /features/facebook-app-invites/support/android/ ]
+redirect: https://docs.branch.io/pages/viral/facebook-app-invites/
 ---
 
 {% if page.overview %}

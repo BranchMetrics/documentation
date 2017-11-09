@@ -15,6 +15,7 @@ contents:
   - install
   - standard
 alias: [ /features/google-video-ads/, /features/google-video-ads/overview/, /features/google-video-ads/install/, /features/google-video-ads/standard/, /features/google-video-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}
