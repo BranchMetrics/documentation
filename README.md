@@ -1,3 +1,23 @@
+# Depreciated
+
+Use https://github.com/BranchMetrics/docs instead
+
+## 
+##
+## 
+##
+##
+## 
+##
+## 
+##
+## 
+## 
+##
+## 
+##
+## 
+
 This is the open source repository for Branch's main documentation portal. You can find the live version at https://dev.branch.io. Staging is at http://dev.staging.branch.io.s3-website-us-west-1.amazonaws.com
 
 # Installation
