@@ -14,6 +14,7 @@ sections:
 - advanced
 - support
 alias: [ /third-party-integrations/appsflyer/, /third-party-integrations/appsflyer/overview/, /third-party-integrations/appsflyer/guide/, /third-party-integrations/appsflyer/advanced/, /third-party-integrations/appsflyer/support/ ] 
+redirect: https://docs.branch.io/pages/integrations/appsflyer/
 ---
 
 {% if page.overview %}

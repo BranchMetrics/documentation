@@ -14,6 +14,7 @@ sections:
 - advanced
 - support
 alias: [ /third-party-integrations/tune/, /third-party-integrations/tune/overview/, /third-party-integrations/tune/guide/, /third-party-integrations/tune/advanced/, /third-party-integrations/tune/support/ ] 
+redirect: https://docs.branch.io/pages/integrations/tune/
 ---
 
 {% if page.overview %}

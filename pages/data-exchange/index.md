@@ -8,6 +8,7 @@ keywords: Contextual Deep Linking, Deep links, Deeplinks, Deep Linking, Deeplink
 hide_platform_selector: true
 hide_section_selector: true
 alias: [ /methods-endpoints/ ]
+redirect: https://docs.branch.io/
 ---
 
 Branch can integrate with a number of other platforms to enable powerful, customized workflows. Thinking of sending your Branch data to your analytics or attribution packages? See our integrations below.

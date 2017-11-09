@@ -13,6 +13,7 @@ sections:
 - guide
 - advanced
 alias: [ /third-party-integrations/mixpanel/, /third-party-integrations/mixpanel/overview/, /third-party-integrations/mixpanel/guide/, /third-party-integrations/mixpanel/advanced/ ] 
+redirect: https://docs.branch.io/pages/integrations/mixpanel/
 ---
 
 {% if page.overview %}

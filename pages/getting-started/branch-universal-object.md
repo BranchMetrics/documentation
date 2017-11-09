@@ -19,6 +19,7 @@ sections:
 - guide
 - advanced
 contents: list
+redirect: https://docs.branch.io/
 ---
 
 {% if page.guide %}

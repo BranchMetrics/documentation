@@ -14,6 +14,7 @@ sections:
 - advanced
 - support
 alias: [ /third-party-integrations/other-esp/, /third-party-integrations/other-esp/overview/, /third-party-integrations/other-esp/guide/, /third-party-integrations/other-esp/advanced/, /third-party-integrations/other-esp/support/ ]
+redirect: https://docs.branch.io/pages/emails/get-started/
 ---
 
 {% if page.overview %}

@@ -13,6 +13,7 @@ contents:
   number:
   - guide
 alias: [ /features/google-dla/google-uac/overview/, /features/google-dla/google-uac/guide/, /features/google-dla/google-uac/support/ ]
+redirect: https://docs.github.io/pages/deep-linked-ads/google-uac/
 ---
 
 {% if page.overview %}

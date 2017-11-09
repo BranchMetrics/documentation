@@ -14,6 +14,7 @@ contents:
   number:
   - guide
 alias: [ /features/google-xplatform-search-ads/, /features/google-xplatform-search-ads/overview/, /features/google-xplatform-search-ads/standard/, /features/google-xplatform-search-ads/standard/,  /features/google-xplatform-search-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

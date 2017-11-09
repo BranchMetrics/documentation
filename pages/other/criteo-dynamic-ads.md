@@ -11,6 +11,7 @@ sections:
 - guide
 - support
 alias: [ /features/criteo-dynamic-ads/, /features/criteo-dynamic-ads/overview/, /features/criteo-dynamic-ads/guide/, /features/criteo-dynamic-ads/support/]
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

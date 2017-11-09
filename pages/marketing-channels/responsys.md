@@ -18,6 +18,7 @@ contents:
     - usage
 alias: [ /third-party-integrations/responsys/, /third-party-integrations/responsys/overview/, /third-party-integrations/responsys/setup/, /third-party-integrations/responsys/usage/, /third-party-integrations/responsys/support/ ]
 machine_name: e_rs
+redirect: https://docs.branch.io/pages/emails/responsys/
 ---
 
 {% if page.overview %}

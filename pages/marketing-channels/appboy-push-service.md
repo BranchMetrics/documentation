@@ -10,6 +10,7 @@ premium: false
 sections:
 - guide
 alias: [ /third-party-integrations/appboy/, /third-party-integrations/appboy/overview/, /third-party-integrations/appboy/guide/, /third-party-integrations/appboy/support/ ] 
+redirect: https://docs.branch.io/pages/integrations/appboy
 ---
 
 {% prerequisite %}

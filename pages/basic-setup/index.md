@@ -8,6 +8,7 @@ keywords: Contextual Deep Linking, Deep links, Deeplinks, Deep Linking, Deeplink
 hide_platform_selector: true
 hide_section_selector: true
 alias: [ /getting-started/ ]
+redirect: https://docs.branch.io
 ---
 
 There are a million and one ways to use Branch in your app! In this section, we get you up to speed on the basics of the Branch platform.

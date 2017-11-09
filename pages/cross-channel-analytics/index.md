@@ -8,6 +8,7 @@ keywords: Contextual Deep Linking, Deep links, Deeplinks, Deep Linking, Deeplink
 hide_platform_selector: true
 hide_section_selector: true
 alias: [ /third-party-integrations/ ]
+redirect: https://docs.branch.io/pages/dashboard/analytics
 ---
 
 Branch captures your customer's journey from every single channel and platform. Read the articles below to make sure you're well equipped to understand each channel's effectiveness, measure in-app conversions, and calculate a user's lifetime value.

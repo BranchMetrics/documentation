@@ -17,6 +17,7 @@ contents:
     - setup
 alias: [ /third-party-integrations/appboy-with-sendgrid/ /third-party-integrations/appboy-with-sendgrid/overview/, /third-party-integrations/appboy-with-sendgrid/setup/, /third-party-integrations/appboy-with-sendgrid/usage/, /third-party-integrations/appboy-with-sendgrid/support/, /marketing-channels/appboy-with-sendgrid/ /marketing-channels/appboy-with-sendgrid/overview/, /marketing-channels/appboy-with-sendgrid/setup/, /marketing-channels/appboy-with-sendgrid/usage/, /marketing-channels/appboy-with-sendgrid/support/ ] 
 machine_name: e_ab
+redirect: https://docs.branch.io/pages/integrations/appboy
 ---
 
 {% if page.overview %}

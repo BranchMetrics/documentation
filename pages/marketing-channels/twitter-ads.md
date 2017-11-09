@@ -8,6 +8,7 @@ sections:
 - overview
 - guide
 alias: [ /features/twitter-ads/overview/, /features/twitter-ads/overview/, /features/twitter-ads/guide/ ]
+redirect: https://docs.branch.io/pages/deep-linked-ads/twitter/
 ---
 
 {% if page.overview %}

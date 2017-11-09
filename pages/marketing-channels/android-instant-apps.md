@@ -9,6 +9,7 @@ sections:
 - overview
 - guide
 alias: [ /features/android-instant-apps/, /features/android-instant-apps/guide/, ]
+redirect: https://docs.branch.io/pages/app-to-app/android-instant-apps
 ---
 
 {% if page.overview %}

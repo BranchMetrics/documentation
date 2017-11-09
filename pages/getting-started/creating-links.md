@@ -32,6 +32,7 @@ contents:
     - apps
     - dashboard
   hide:
+redirect: https://docs.branch.io/pages/links/integrate/
 ---
 
 {% if page.overview %}

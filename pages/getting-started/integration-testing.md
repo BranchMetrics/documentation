@@ -20,6 +20,7 @@ platforms:
 sections:
 - guide
 contents: list
+redirect: https://docs.branch.io/pages/apps/ios/#simulate-an-install
 ---
 
 Testing Branch functionality can be challenging. Many functions require two parties to complete, and some tests can inadvertently affect your analytics data. Here are a few workarounds to help you test Branch features to your satisfaction.

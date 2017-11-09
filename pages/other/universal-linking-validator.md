@@ -11,6 +11,7 @@ sections:
 - overview
 - guide
 alias: [ /getting-started/universal-linking-validator/, /getting-started/universal-linking-validator/overview/, /getting-started/universal-linking-validator/guide/ ]
+redirect: https://docs.branch.io/pages/resources/validation-tools/#universal-link-validator
 ---
 {% if page.overview %}
 

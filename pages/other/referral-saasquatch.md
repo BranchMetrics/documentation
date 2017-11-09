@@ -11,6 +11,7 @@ sections:
 - overview
 - guide
 alias: [ /third-party-integrations/referral-saasquatch/, /third-party-integrations/referral-saasquatch/overview/, /third-party-integrations/referral-saasquatch/guide/ ]
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

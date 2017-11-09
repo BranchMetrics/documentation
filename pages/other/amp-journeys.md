@@ -13,6 +13,7 @@ sections:
 contents:
   number:
     - amp
+redirect: https://docs.branch.io/pages/web/amp-journeys/
 ---
 
 {% if page.amp %}

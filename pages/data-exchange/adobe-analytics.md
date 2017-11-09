@@ -14,6 +14,7 @@ sections:
 - advanced
 - support
 alias: [ /third-party-integrations/adobe-analytics/, /third-party-integrations/adobe-analytics/overview/, /third-party-integrations/adobe-analytics/guide/, /third-party-integrations/adobe-analytics/advanced/, /third-party-integrations/adobe-analytics/support/ ] 
+redirect: https://docs.branch.io/pages/integrations/adobe-analytics/
 ---
 
 {% if page.overview %}

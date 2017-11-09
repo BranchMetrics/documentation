@@ -9,6 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 sections:
 - guide
+redirect: https://docs.branch.io/pages/dashboard/integrate/#change-link-domain
 ---
 
 {% if page.guide %}

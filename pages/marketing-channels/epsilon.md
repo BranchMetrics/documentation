@@ -17,6 +17,7 @@ contents:
     - setup
 alias: [ /other/epsilon-harmony/, /other/epsilon-harmony/overview/, /other/epsilon-harmony/setup/, /other/epsilon-harmony/usage/, /other/epsilon-harmony/support/ ]
 machine_name: e_ep
+redirect: https://docs.branch.io/pages/emails/epsilon/
 ---
 
 {% if page.overview %}

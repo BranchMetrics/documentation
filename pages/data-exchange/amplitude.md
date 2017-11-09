@@ -13,7 +13,8 @@ sections:
 - guide
 - advanced
 - support
-alias: [ /third-party-integrations/amplitude/, /third-party-integrations/amplitude/overview/, /third-party-integrations/amplitude/guide/, /third-party-integrations/amplitude/advanced/, /third-party-integrations/amplitude/support/ ] 
+alias: [ /third-party-integrations/amplitude/, /third-party-integrations/amplitude/overview/, /third-party-integrations/amplitude/guide/, /third-party-integrations/amplitude/advanced/, /third-party-integrations/amplitude/support/ ]
+redirect: https://docs.branch.io/pages/integrations/amplitude/  
 ---
 
 {% if page.overview %}

@@ -9,6 +9,7 @@ sections:
 - overview
 - guide
 - advanced
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

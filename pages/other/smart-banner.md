@@ -13,6 +13,7 @@ sections:
 - guide
 - support
 alias: [ /features/smart-banner/, /features/smart-banner/overview/, /features/smart-banner/guide/, /features/smart-banner/support/ ] 
+redirect: https://docs.branch.io/pages/web/integrate/#create-smart-banner
 ---
 
 {% if page.overview %}

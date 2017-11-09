@@ -9,6 +9,7 @@ hide_platform_selector: true
 sections:
 - guide
 alias: [ /features/chrome-extension/, /features/chrome-extension/guide/ ]
+redirect: https://docs.branch.io/pages/links/integrate/#short-links
 ---
 
 {% if page.guide %}

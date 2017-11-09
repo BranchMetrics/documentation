@@ -19,6 +19,7 @@ platforms:
 sections:
 - guide
 - advanced
+redirect: https://docs.branch.io/pages/apps/ios/
 ---
 
 {% if page.guide %}

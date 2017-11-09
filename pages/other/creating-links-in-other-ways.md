@@ -12,6 +12,7 @@ sections:
 - guide
 exclude_from_google_search: true
 alias: [ /getting-started/creating-links-in-other-ways/ ]
+redirect: https://docs.branch.io/pages/links/integrate/#create-deep-links
 ---
 
 Links are the foundation of everything Branch offers. There are many ways to create links, depending on your needs.

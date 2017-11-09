@@ -13,6 +13,7 @@ sections:
 - guide
 content: list
 alias: [ /getting-started/content-sharing-tutorial/ ]
+redirect: https://docs.branch.io/pages/viral/content-sharing/#overview
 ---
 
 Welcome to the Branch Content Sharing Tutorial! Today you will be learning how to share deep linked content with your friends by simply pressing a button inside your app and generating a link with the Branch SDK.

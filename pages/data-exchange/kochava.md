@@ -12,6 +12,7 @@ sections:
 - guide
 - advanced
 alias: [ /third-party-integrations/kochava/, /third-party-integrations/kochava/overview/, /third-party-integrations/kochava/guide/, /third-party-integrations/kochava/advanced/ ] 
+redirect: https://docs.branch.io/pages/integrations/kochava/
 ---
 
 {% if page.overview %}

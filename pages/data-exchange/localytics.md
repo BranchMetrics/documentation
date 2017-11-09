@@ -12,6 +12,7 @@ sections:
 - guide
 - advanced
 alias: [ /third-party-integrations/localytics/, /third-party-integrations/localytics/overview/, /third-party-integrations/localytics/guide/, /third-party-integrations/localytics/advanced/ ] 
+redirect: https://docs.branch.io/pages/integrations/localytics/
 ---
 
 {% if page.overview %}

@@ -13,6 +13,7 @@ contents:
   number:
   - guide
 alias: [ /features/google-adwords-conversions/overview/, /features/google-adwords-conversions/guide/, /features/google-adwords-conversions/support/ ]
+redirect: https://docs.branch.io/pages/deep-linked-ads/google-ads-overview/
 ---
 
 {% if page.overview %}

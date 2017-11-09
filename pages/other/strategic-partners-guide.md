@@ -11,6 +11,7 @@ sections:
 - overview
 - guide
 alias: [ /third-party-integrations/strategic-partners-guide/, /third-party-integrations/strategic-partners-guide/overview/, /third-party-integrations/strategic-partners-guide/guide/ ]
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

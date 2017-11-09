@@ -12,6 +12,7 @@ sections:
 - overview
 - guide
 alias: [ /third-party-integrations/remote-deep-links/, /third-party-integrations/remote-deep-links/overview/, /third-party-integrations/remote-deep-links/guide/ ]
+redirect: https://docs.branch.io
 ---
 
 {% if page.overview %}

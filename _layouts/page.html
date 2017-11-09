@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html>
   {% webasset head page_title='{{page.page_title}}' android_page_title='{{page.android_page_title}}' ios_page_title='{{page.ios_page_title}}' keywords='{{page.keywords}}' android_keywords='{{page.android_keywords}}' ios_keywords='{{page.ios_keywords}}' ios='{{page.ios}}' android='{{page.android}}' description='{{page.description}}' ios_description='{{page.ios_description}}' android_description='{{page.android_description}}' site_title='Branch Documentation' url='{{site.base_url}}{{page.url}}' %}
+  {% if page.redirect %}
+    <link rel="canonical" href="{{ page.redirect }}" />
+    <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
+    <script type="text/javascript">
+      window.location.href = "{{ page.redirect }}";
+    </script>
+  {% endif %}
 
 {% if page.exclude_from_google_search == true %}
     <meta name="robots" content="noindex" />
 {% endif %}
 
   <body>
+  {% if page.redirect %}
+    <p><a href="{{ page.redirect }}">Redirect</a></p>
+  {% else %}
   <div class="container inner container-height">
     <header class="logo-container">
       <div class="logo">
@@ -79,6 +89,7 @@
       </div>
     </div>
   </div>
+  {% endif %}
 
   <script>
     var platformSelector = $("#platform-selector");

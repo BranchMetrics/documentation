@@ -10,6 +10,7 @@ sections:
 - guide
 - support
 alias: [ /features/google-search-ads/, /features/google-search-ads/overview/, /features/google-search-ads/guide/, /features/google-search-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

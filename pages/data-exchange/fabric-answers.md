@@ -10,6 +10,7 @@ hide_platform_selector: true
 sections:
 - guide
 alias: [ /third-party-integrations/fabric-answers/guide/ ]
+redirect: https://docs.branch.io/pages/integrations/fabric-answers/
 ---
 
 {% prerequisite %}

@@ -9,6 +9,7 @@ hide_platform_selector: true
 sections:
 - overview
 - guide
+redirect: https://docs.branch.io/pages/resources/matching/
 ---
 
 {% if page.overview %}

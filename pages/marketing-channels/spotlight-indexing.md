@@ -11,6 +11,7 @@ sections:
 - guide
 - advanced
 alias: [ /features/spotlight-indexing/, /features/spotlight-indexing/overview/, /features/spotlight-indexing/guide/, /features/spotlight-indexing/advanced/ ] 
+redirect: https://docs.branch.io/pages/organic-search/spotlight
 ---
 
 {% if page.overview %}

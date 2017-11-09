@@ -12,6 +12,7 @@ sections:
 - advanced
 - support
 alias: [ /getting-started/webhooks/, /getting-started/webhooks/overview/, /getting-started/webhooks/guide/, /getting-started/webhooks/advanced/, /getting-started/webhooks/support/ ]
+redirect: https://docs.branch.io/pages/exports/webhooks/
 ---
 
 {% if page.overview %}

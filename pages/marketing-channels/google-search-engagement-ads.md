@@ -14,6 +14,7 @@ contents:
   number:
   - android
 alias: [ /features/google-search-engagement-ads/, /features/google-search-engagement-ads/overview/, /features/google-search-engagement-ads/guide/android/, /features/google-search-engagement-ads/support/ ]
+redirect: https://docs.branch.io/
 ---
 
 {% if page.overview %}

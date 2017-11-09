@@ -10,6 +10,7 @@ hide_section_selector: true
 sections:
 - guide
 contents: list
+redirect: https://docs.branch.io/pages/links/integrate/#expected-redirect-behavior
 ---
 
 Branch links work across hundreds of thousands of edge cases created by different browsers, operating systems and link configuration combinations. Below are some of the most common use cases for Branch links, with notes on the out-of-the-box behavior you should expect.
