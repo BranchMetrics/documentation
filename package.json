@@ -2,27 +2,29 @@
   "name": "documentation",
   "version": "1.0.0",
   "dependencies": {
-    "accum": "0.3.6",
-    "alt": "0.15.4",
-    "browserify": "11.0.0",
-    "cheerio": "0.19.0",
-    "esprima-fb": "15001.1.0-dev-harmony-fb",
+    "accum": "0.3.7",
+    "alt": "0.18.6",
+    "browserify": "16.1.0",
+    "cheerio": "1.0.0-rc.2",
+    "esprima-fb": "15001.1001.0-dev-harmony-fb",
     "jscs": "1.13.1",
-    "lunr": "0.5.11",
-    "process-nextick-args": "^1.0.7",
+    "lunr": "2.1.5",
+    "process-nextick-args": "^2.0.0",
     "ramda": "0.13.0",
     "react": "0.13.1",
-    "react-tools": "0.13.1",
-    "reactify": "1.1.0",
-    "superagent": "1.2.0",
-    "through2": "0.6.3",
-    "uglify-js": "2.4.20",
+    "react-tools": "0.13.3",
+    "reactify": "1.1.1",
+    "stream-browserify": "^2.0.1",
+    "superagent": "3.8.2",
+    "through2": "2.0.3",
+    "uglify-js": "~3.3.10",
     "util-deprecate": "^1.0.2"
   },
   "scripts": {
     "build_search": "node ./_site/js/search/build_scripts/index_builder.js",
     "lint": "eslint ./js",
-    "test": "jscs ./js"
+    "test": "jscs ./js",
+    "validate": "npm ls"
   },
   "pre-commit": [
     "lint",
@@ -30,10 +32,10 @@
     "test"
   ],
   "devDependencies": {
-    "babel-eslint": "4.1.6",
-    "escope": "3.3.0",
-    "eslint": "1.10.3",
-    "precommit-hook": "1.0.7",
-    "hooks": "*"
+    "babel-eslint": "8.2.1",
+    "escope": "3.6.0",
+    "eslint": "4.17.0",
+    "hooks": "^0.3.2",
+    "precommit-hook": "3.0.0"
   }
 }
